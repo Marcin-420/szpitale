@@ -1,0 +1,49 @@
+# ArcGIS
+*.gdb/
+*.tbx
+*.mxd
+*.aprx
+*.ags
+*.atbx
+*.lock
+*.sde
+
+# ArcGIS Pro temporary files
+*.aps
+*.aprx.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+build/
+dist/
+*.egg-info/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Documentation builds
+docs/_build/
